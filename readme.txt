@@ -27,6 +27,7 @@ None
 == Screenshots ==
 
 1. Rewrite Image Link 
+2. Configuration 
 
 == Changelog ==
 = 0.0.1 =
