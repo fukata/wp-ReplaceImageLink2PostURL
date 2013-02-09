@@ -24,6 +24,10 @@ https://github.com/fukata/wp-ReplaceImageLink2PostURL/issues
 
 None
 
+== Screenshots ==
+
+1. Rewrite Image Link 
+
 == Changelog ==
 = 0.0.1 =
 * First release.
